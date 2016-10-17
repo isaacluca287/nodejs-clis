@@ -27,4 +27,4 @@ Time spent: 24 hours
 ## Walkthrough Gif:
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Video Walkthrough](nodejs-clis.gif)
